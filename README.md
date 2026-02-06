@@ -6,6 +6,6 @@ This is the repository for manuscript "Distributional welfare impacts and compen
 
 - Folder "data" includes a sample dataset with 50 markets for choice modeling and shareable model predictions.
 
-- Folder "model results" includes estimated taste parameters for each trip segement.
+- Folder "results" includes estimated taste parameters for each trip segement.
 
 - Folder "shapefiles" includes the geo information of study area and congestion relief zone.
